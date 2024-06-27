@@ -1,0 +1,29 @@
+.chart-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin-bottom: 2rem;
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 10px;
+}
+.btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 350px;
+  margin-bottom: 1.3rem;
+}
+.btn {
+  border-width: 0px;
+  border-radius: 5px;
+  background-color: #514d91;
+  height: 30px;
+  width: 100px;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
